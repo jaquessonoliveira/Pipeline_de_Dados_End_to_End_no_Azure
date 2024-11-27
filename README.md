@@ -15,7 +15,7 @@ A empresa identificou uma lacuna na compreensão da demografia de clientes, espe
 
 ## Visão geral da solução
 
-![modulo_43-4.png](https://github.com/jaquessonoliveira/Pipeline_de_Dados_End_to_End_no_Azure/blob/main/Arquitetura_do_Sistema.png)
+![modulo_43-4.png](https://github.com/jaquessonoliveira/Pipeline_de_Dados_End_to_End_no_Azure/blob/main/Arquivos/Arquitetura_do_Sistema.png)
 
 Para atender aos requisitos identificados, a solução foi estruturada em quatro componentes principais:
 

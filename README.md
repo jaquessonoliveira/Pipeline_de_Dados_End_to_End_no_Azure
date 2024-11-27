@@ -3,7 +3,7 @@ Este projeto apresenta uma solução completa de pipeline de engenharia de dados
 
 ## Visão geral do projeto
 
-![modulo_43-4.png](https://github.com/jaquessonoliveira/Projeto-Ingestao-de-Dados--em-Streaming/blob/main/Arquitetura%20Engenharia%20de%20dados.png)
+![modulo_43-4.png](https://github.com/jaquessonoliveira/Pipeline_de_Dados_End_to_End_no_Azure/blob/main/Arquitetura_do_Sistema.png)
 
 Este projeto aborda uma necessidade crítica de negócios ao construir um pipeline de dados integrado na plataforma Azure. O fluxo abrange a extração de dados de clientes e vendas de um banco de dados SQL Server local, a transformação desses dados na nuvem e a geração de insights acionáveis por meio de um painel interativo no Power BI. O painel exibirá os principais indicadores de desempenho (KPIs), como distribuição de gênero e vendas por categoria de produto, permitindo que as partes interessadas filtrem e analisem os dados de forma dinâmica, com base em critérios como data, categoria de produto e gênero.
 
